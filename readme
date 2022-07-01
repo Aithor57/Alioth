@@ -4,7 +4,7 @@ MNSAVINGS wallet repository
 ### Coin Specs
  
 • PoW Algorithm: Quark   
-• Premine: 110,000 SAPP   
+• Premine: 110,000 MNSC  
 • PoW Blocks: 1 - 250   
 • PoS Blocks: Starting from 251   
 • Block Time: 60 Seconds    
