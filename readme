@@ -1,24 +1,24 @@
-MNSAVINGS wallet repository
+Alioth wallet repository
 =====================================
 
 ### Coin Specs
  
 • PoW Algorithm: Quark   
-• Premine: 110,000 MNSC  
+• Premine: 500,000 AIH  
 • PoW Blocks: 1 - 250   
 • PoS Blocks: Starting from 251   
 • Block Time: 60 Seconds    
 • Maturity: 30 Confirmations   
-• Prefix: MNSC addresses start with the capital letter "M"   
-• Ports: 5727 (p2p) / 5726 (rpc)   
-• Explorer http://138.68.173.91  
-• Website https://mnsavings.com/
+• Prefix: AIH addresses start with the capital letter "A"   
+• Ports: xxxx (p2p) / xxxx (rpc)   
+• Explorer http://  
+• Website https://
 
 ### Rewards Breakdown
 ---
 | Block     | Collateral | Block Reward | MN Reward % | Staking Reward % | MN Reward | Staker Reward |
 | --------- | ---------- | ------------ | ----------- | ---------------- | --------- | ------------- |
-| 1         | \-         | 110,000.00   | \-          | \-               | \-        | \-            |
+| 1         | \-         | 500,000.00   | \-          | \-               | \-        | \-            |
 | 2         | \-         | 10.00        | \-          | \-               | \-        | \-            |
 | 251       | 1000       | 10.00        | 80          | 20               | 8         | 2             |
 | 100,001   | 1000       | 25.00        | 80          | 20               | 20        | 5             |
